@@ -49,4 +49,4 @@ jobs:
       - run: npm install
       - run: licensed status
 
-[![Licenses](https://github.com/Street-Art-Zol/labeler/actions/workflows/update_and_check_licenses.yml/badge.svg?branch=main)](https://github.com/Street-Art-Zol/labeler/actions/workflows/update_and_check_licenses.yml)
+[![Licenses](https://github.com/Street-Art-Zol/Emtrulyonazol/actions/workflows/update_and_check_licenses.yml/badge.svg?branch=main)](https://github.com/Street-Art-Zol/Emtrulyonazol/actions/workflows/update_and_check_licenses.yml)
